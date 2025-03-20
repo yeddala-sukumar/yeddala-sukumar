@@ -1,3 +1,4 @@
+![logo](https://github.com/yeddala-sukumar/yeddala-sukumar/blob/main/Screenshot%20From%202025-03-20%2012-18-17.png)
 <h1 align="center">Hi 👋, I'm Yeddala Sukumar</h1>
 <h3 align="center">A passionate UI & UX Developer, Frontend Developer and Security Analyst.</h3>
 <img align="right" alt="Designer" width="400"  src="https://www.fullstacktechnology.com/wp-content/uploads/2020/11/web_developing_2.gif">
